@@ -1,5 +1,5 @@
 #nginx
-mariadb:10.5.22
+#mariadb:10.5.22
 nacos-server:v2.2.0
 redis:6.2.7
 minio:RELEASE.2021-04-22T15-44-28Z
